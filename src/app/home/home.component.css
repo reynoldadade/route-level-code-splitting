@@ -1,0 +1,15 @@
+.buttonMe{
+  border-radius: 25px;
+  background: #73AD21;
+  margin: 10% 0% 0% 20%;
+  padding: 5px 5px 5px 5px;
+
+}
+
+.buttonYou{
+  border-radius: 25px;
+  background: lightblue;
+  margin: 10% 0% 0% 20%;
+  padding: 5px 5px 5px 5px;
+
+}
